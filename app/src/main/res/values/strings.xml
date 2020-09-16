@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="value_playing">Playing</string>
+    <string name="value_previous">Previous</string>
+    <string name="value_pause">Pause</string>
+    <string name="value_next">Next</string>
+</resources>
